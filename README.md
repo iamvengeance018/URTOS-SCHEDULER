@@ -1,5 +1,3 @@
-### ✅ `README.md` (Copy this into your project root)
-
 ```markdown
 # 💡 uRTOS Scheduler – A Mini RTOS Simulation in C++
 
